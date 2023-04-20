@@ -89,3 +89,6 @@ See [documentation](https://dortania.github.io/GPU-Buyers-Guide/modern-gpus/inte
 
   
 - [Opencore Team](https://dortania.github.io/getting-started/)
+
+### Disclaimer 
+*Some residual SSTD or Kext may be present but not used (the same EFI is used on different hardware configurations)*
