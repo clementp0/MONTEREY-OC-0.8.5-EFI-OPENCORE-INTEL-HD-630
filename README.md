@@ -1,11 +1,7 @@
 
   
 
-## EFI-OPENCORE-I9-10850K-HD-630
-
-  
-
-OPENCORE 0.8.4 EFI using I9 10850K and INTEL HD 630
+# OPENCORE 0.8.4 EFI using I9 10850K and INTEL HD 630 - Monterey
 
   
 
