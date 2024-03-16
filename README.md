@@ -4,7 +4,7 @@
 # OPENCORE 0.8.4 EFI using I9 10850K and INTEL HD 630 - Monterey
 
 <p align="center">
-  <img src="https://github.com/clementp0/MONTEREY-OC-0.8.5-EFI-OPENCORE-INTEL-HD-630/assets/15802129/8635340e-5f18-4102-ad47-c942a31df9c01">
+  <img src="https://github.com/clementp0/MONTEREY-OC-0.8.5-EFI-OPENCORE-INTEL-HD-630/assets/15802129/8ae7a9fb-0ee1-483f-acae-eae345e9fe84">
 </p>
 
 
