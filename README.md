@@ -3,11 +3,10 @@
 
 # OPENCORE 0.8.4 EFI using I9 10850K and INTEL HD 630 - Monterey
 
-  
+<p align="center">
+  <img src="https://github.com/clementp0/MONTEREY-OC-0.8.5-EFI-OPENCORE-INTEL-HD-630/assets/15802129/8635340e-5f18-4102-ad47-c942a31df9c01">
+</p>
 
-![nfo](https://cdn.discordapp.com/attachments/778932989693526038/1098620279867068519/efi_630.png)
-
-  
 
 **Latest tested macOS**: Monterey 12.6
 
